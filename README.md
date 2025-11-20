@@ -1,7 +1,7 @@
 # Projeto Final – Visão Computacional  
 Classificação de Imagens com CNNs Pré-treinadas (MobileNetV3 vs ResNet18)
 
-## 📌 Descrição do Projeto
+##  Descrição do Projeto
 Este projeto foi desenvolvido para a disciplina de **Visão Computacional** e tem como objetivo treinar e comparar modelos de deep learning para **classificação de imagens** utilizando arquiteturas pré-treinadas.
 
 Foram avaliadas duas redes neurais amplamente utilizadas em visão computacional:
@@ -20,7 +20,7 @@ Ao final, gráficos de desempenho são gerados para facilitar a análise dos res
 
 ---
 
-## 🧰 Tecnologias e Bibliotecas Utilizadas
+## Tecnologias e Bibliotecas Utilizadas
 
 - **Python 3**
 - **PyTorch**
@@ -37,4 +37,8 @@ Instalar as dependências abaixo:
 
 ```bash
 pip install torch torchvision matplotlib scikit-learn
+
+## Link do vídeo explicativo
+https://youtu.be/e1U6kaKvW4g
+
 

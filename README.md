@@ -37,8 +37,9 @@ Instalar as dependências abaixo:
 
 ```bash
 pip install torch torchvision matplotlib scikit-learn
-
+```
 ## Link do vídeo explicativo
 https://youtu.be/e1U6kaKvW4g
+
 
 
